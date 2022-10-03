@@ -10,7 +10,7 @@ These instructions illustrate the purpose of each repo.
 
 URL: https://github.com/wikip-co/public
 
-The public repo contains the final product of all the static assets that are published to the web.  Publishing is provided by Cloudflare Pages (https://pages.cloudflare.com/).  This repo is linked to a Cloudflare Pags account, and each time a change is detected, it kicks off a new build.  No building is required in this particular instance, since we are pushing static html to the repo.
+The public repo contains the final product of all the static assets that are published to the web.  Publishing is provided by Cloudflare Pages (https://pages.cloudflare.com/).  This repo is linked to a Cloudflare Pages account, and each time a change is detected, it kicks off a new build.  No building is required in this particular instance, since we are pushing static html to the repo.
 
 To get this static html, this public repo is added as a submodule in each of the other repos.  The other repos contain the tools necessary to build and process content.  They each represent either the root or different sub-directory sites that write files to specific folders in the public repo.
 
