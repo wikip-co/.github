@@ -20,6 +20,13 @@ URL: https://github.com/wikip-co/main_source
 
 The main source repo is used to publish a single-page website to the root of https://wikip.co/.  The purpose of this root page is to list the links to all the active sub-directories being published.  Each of these sub-directories is a self-contained, multi-page site with its own distinct css and resource files.
 
+### wiki_theme Repo
+
+URL: https://github.com/wikip-co/wiki_theme
+
+The wiki_theme repo contains shared themes that each site uses. These themes are setup for sites generated using the hexo platform.
+
+
 ### Sample sub-directory site repo
 
 URL: https://github.com/wikip-co/modern-history_source
