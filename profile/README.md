@@ -1,5 +1,7 @@
 # Welcome!
 
+This is where the source code for https://wikip.co/ is maintained.
+
 ## Submit an Issue
 
 All requests to add, change, or remove content on a wiki are handled by creating an issue.
