@@ -6,7 +6,7 @@ This is where the source code for https://wikip.co/ is maintained.
 
 All requests to add, change, or remove content are handled by creating an issue.
 
-### Select a wiki to submit your issue...
+### Select a wiki category...
 
 ## [Bible Study](https://github.com/wikip-co/bible-study_source/issues) ![GitHub issues](https://img.shields.io/github/issues/wikip-co/bible-study_source?style=flat-square)
 
