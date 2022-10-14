@@ -1,3 +1,3 @@
-## Welcome
+## Submit an issue:
 
-Thanks for visiting!
+https://github.com/orgs/wikip-co/discussions/4
