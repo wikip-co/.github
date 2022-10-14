@@ -1,8 +1,8 @@
-All requests to add, change, or remove content on our site are handled by opening an issue.
+# Welcome!
 
-# Select a Wiki
+## Submit an Issue
 
-Select the appropriate wiki to submit your issue:
+All requests to add, change, or remove content on a wiki are handled by creating an issue.
 
 ## [Bible Study](https://github.com/wikip-co/bible-study_source/issues) ![GitHub issues](https://img.shields.io/github/issues/wikip-co/bible-study_source?style=flat-square)
 
