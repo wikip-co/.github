@@ -1,12 +1,8 @@
 # Welcome!
 
-This is where the source code for https://wikip.co/ is maintained.
+All requests to add, change, or remove content are handled by creating an issue...
 
-## Submit an Issue
-
-All requests to add, change, or remove content are handled by creating an issue.
-
-### Select a wiki category...
+### Select a wiki
 
 ## [Bible Study](https://github.com/wikip-co/bible-study_source/issues)
 
