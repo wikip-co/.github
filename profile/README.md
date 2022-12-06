@@ -1,8 +1,4 @@
-# Welcome!
-
-All requests to add, change, or remove content are handled by creating an issue...
-
-### Select a wiki
+### Select a site to creating an issue...
 
 ## [Bible Study](https://github.com/wikip-co/bible-study_source/issues)
 
