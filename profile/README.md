@@ -1,8 +1,8 @@
 Welcome!
 
-The wikip.co domain is home to a fully open-source website platform, used to host multiple wikis (i.e. wikip.co/devops/).
+The wikip.co domain is a fully open-source website platform that hosts multiple wikis (i.e. https://wikip.co/devops/).
 
-Your contributions at https://www.patreon.com/wikip allow me to continue publishing original, in-depth research.
+Your contribution at https://www.patreon.com/wikip helps me to curate and publish original, in-depth research.
 
 Sincerely,
 
